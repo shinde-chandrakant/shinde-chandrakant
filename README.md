@@ -3,7 +3,7 @@
 <!--
 ![A passionate Software Engineer from India](https://user-images.githubusercontent.com/94171996/234540265-128a5a80-8b6f-4f54-a791-d92c166d2aca.png)
 -->
-<h5 align="justify">Software Engineer and aspiring Data Engineer with around 2 years of experience in designing, developing, and implementing software solutions. Proficient in coding and programming, with a strong emphasis on producing clean and efficient code. Skilled in analyzing systems and identifying areas for improvement to enhance operational efficiency. Demonstrated ability to brainstorm and create innovative tools and applications. Experienced in collaborating with cross-functional teams and effectively communicating with clients to deliver high-quality projects within specified timeframes.</h5>
+<h5 align="justify">Software Engineer and aspiring Data Engineer with around 2 years of experience in designing, developing, and implementing software solutions. Proficient in coding and programming. Skilled in analyzing systems and identifying areas for improvement. Demonstrated ability to brainstorm and create innovative tools and applications. Experienced in collaborating with cross-functional teams</h5>
 
 
 Skills: JAVA / PYTHON / SQL / SPRING / NOSQL / Flask / FastApi / AWS / Hadoop / Hive / Spark / Redshift / ETL  
